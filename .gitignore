@@ -1,0 +1,5 @@
+# Configuración local de IntelliJ y archivos compilados.
+.idea/
+*.iml
+out/
+*.class
